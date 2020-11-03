@@ -30,17 +30,6 @@ function fuc(a){
 console.log(fuc(a))
 
 
-switch(a){
-    case a<9:
-        console.log(a);
-        break;
-    case a>10:
-        console.log(a);
-        a++;
-}
-
-
-
 
 
 
